@@ -6,3 +6,6 @@ def divide(a, b):
         raise ValueError("אי אפשר לחלק באפס")
     return a / b
 
+
+def subtract(a, b):
+    return a - b

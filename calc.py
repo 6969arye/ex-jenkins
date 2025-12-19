@@ -1,5 +1,5 @@
 def add(a, b):
-    return a + b + 1
+    return a + b
 
 def divide(a, b):
     if b == 0:
@@ -8,4 +8,4 @@ def divide(a, b):
 
 
 def substract(a, b):
-    return a - b + 1
+    return a - b

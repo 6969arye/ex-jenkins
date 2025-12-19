@@ -1,5 +1,5 @@
 def add(a, b):
-    return a + b + 2
+    return a + b
 
 def divide(a, b):
     if b == 0:

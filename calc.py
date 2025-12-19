@@ -1,8 +1,11 @@
 def add(a, b):
-    return a + b + 1
+    return a + b
 
 def divide(a, b):
     if b == 0:
         raise ValueError("אי אפשר לחלק באפס")
     return a / b
 
+
+def subtract(a, b):
+    return a - b
